@@ -1,0 +1,21 @@
+.mobileheader-title {
+    font-size: 14px;
+    float: right;
+    color: black;
+    font-weight: 700;
+    margin: 0 85px 0 85px;
+}
+
+.mobileheaderfor-title {
+    font-size: 14px;
+    float: right;
+    color: white;
+    font-weight: 700;
+    margin: 0 85px 0 85px;
+}
+
+.mobileheader {
+    background-color: transparent !important;
+    color: black;
+    position: absolute !important;
+}
